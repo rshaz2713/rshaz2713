@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there! 👋
+## My name is Rumman Shahzad. I am a student studying computer science who loves to code!
 
-<!--
-**rshaz2713/rshaz2713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills:
+- **Programming:** Java, C, Swift, GitHub, BlueJ, Xcode, DSA, Systems Programming, Object-Oriented Programming, Protocol-Oriented Programming
+- **Interpersonal:** Problem-Solving, Public Speaking, Teamwork, Leadership
 
-Here are some ideas to get you started:
+### Current Learning:
+- Completing an accelerated 4+1 BS/MS degree in computer science and software engineering at Central Connecticut State University.
+- Studying iOS app development with Swift, SwiftUI, and Xcode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects:
+- **LLM (Large Language Model):** An AI-powered tool to enhance the documentation process for student researchers in the CCSU robotics lab. _(Python_ | _CS 510: Fundamentals of Software Engineering)_
+- COMING SOON: Another project... 🤫 _(CS 505: Design Patterns)_
+- COMING SOON: Portfolio for my projects
+
+### Completed Projects:
+- **[Basic Health Guide:](https://github.com/rshaz2713/CWC-iOSFoundations-HandinAssignment)** A very simple app with tips to live a healthy lifestyle, demonstrating basics of iOS development foundations. _(Swift, SwiftUI, JSON)_
+- **[Snake Game:](https://github.com/rshaz2713/CCSU-CS355-SnakeCourseProject)** A Linux-based adaptation of the snake game that runs in a Unix-based command processor. _(C, ncurses)_
+- **16-bit MIPS CPU:** A simplified MIPS instruction set architecture, designed with gate-level and behavioral modeling. _(Icarus Verilog HDL)_
+- **[Ibn iBot (2021)](https://github.com/rshaz2713/Ibn-iBot):** An automoderator Discord bot for the Muslim Gamers' League. _(Java)_
+
+### Current Objectives:
+- Seeking any software engineering internship opportunities.
+- Aspire to learn about software development for the Apple Ecosystem as a whole.
+
+### How to Reach Me:
+- [LinkedIn](https://www.linkedin.com/in/rumman-shahzad)
+
+### Personal Interests:
+- When I am not coding, I enjoy spending time with family and friends. I also love traveling!
