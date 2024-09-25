@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 ## My name is Rumman Shahzad. I am a student studying computer science who loves to code!
 
 ### Skills:
