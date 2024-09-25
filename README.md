@@ -5,7 +5,7 @@
 - **Programming:** Java, C, Swift, GitHub, BlueJ, Xcode, DSA, Systems Programming, Object-Oriented Programming, Protocol-Oriented Programming
 - **Interpersonal:** Problem-Solving, Public Speaking, Teamwork, Leadership
 
-### Current Learning:
+### Learning:
 - Completing an accelerated 4+1 BS/MS degree in computer science and software engineering at Central Connecticut State University.
 - Studying iOS app development with Swift, SwiftUI, and Xcode.
 
@@ -20,12 +20,13 @@
 - **[16-bit MIPS CPU (Jan - May 2024)](https://github.com/rshaz2713/CCSU-CS385-CPU):** A simplified MIPS instruction set architecture, designed with gate-level and behavioral modeling and broken into 4 progress reports. _(Icarus Verilog HDL)_
 - **[Ibn iBot (Oct 2020 - May 2021)](https://github.com/rshaz2713/Ibn-iBot):** An automoderator Discord bot for the Muslim Gamers' League. _(Java)_
 
-### Current Objectives:
+### Objectives:
 - Seeking any software engineering internship opportunities.
 - Aspire to learn about software development for the Apple Ecosystem as a whole.
 
 ### How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/rumman-shahzad)
+- [Email](mailto:rumman@devasp.com)
 
 ### Personal Interests:
 - When I am not coding, I enjoy spending time with family and friends. I also love traveling!
