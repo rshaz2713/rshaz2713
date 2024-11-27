@@ -2,16 +2,19 @@
 ## My name is Rumman Shahzad. I am a student studying computer science who loves to code!
 
 ### Skills:
-- **Programming:** Java, C, Swift, GitHub, BlueJ, Xcode, DSA, Systems Programming, Object-Oriented Programming, Protocol-Oriented Programming
-- **Interpersonal:** Problem-Solving, Public Speaking, Teamwork, Leadership
+- **Programming:** Java, C, Swift, Python, SQL, JSON, Verilog, Data Structures, REST APIs, Git
+- **Paradigms and Practices:** Object-Oriented, Systems/Low-Level, AI Applications, Digital Logic, Agile, Design Patterns
+- **Interpersonal:** Problem-Solving, Public Speaking, Teamwork, Leadership, Fast Learner
 
 ### Learning:
 - Completing an accelerated 4+1 BS/MS degree in computer science and software engineering at Central Connecticut State University.
-- Studying iOS app development with Swift, SwiftUI, and Xcode.
+- Learned Java, C, and SQL through school assignments.
+- Using Python and other libraries/frameworks for client projects in graduate-level coursework.
+- Studying iOS app development with Swift, SwiftUI, JSON, and Xcode.
 
 ### Current Projects:
 - **LLM (Large Language Model):** An AI-powered tool to enhance the documentation process for student researchers in the CCSU robotics lab. _(Python_ | _CS 510: Fundamentals of Software Engineering)_
-- COMING SOON: Another project... 🤫 _(CS 505: Design Patterns)_
+- **Robot API (Movement Abstraction):** A ROS-based API that allows for movement of various types of robots in the CCSU Robotics Lab with a variety of input methods. Our team focused on movement abstraction, and other teams focused on sensors/vision input, and input abstraction. _(Python, ROS_ | _CS 505: Design Patterns)_
 - COMING SOON: Portfolio for my projects
 
 ### Completed Projects:
@@ -29,4 +32,4 @@
 - [Email](mailto:rumman@devasp.com)
 
 ### Personal Interests:
-- When I am not coding, I enjoy spending time with family and friends. I also love traveling!
+- When I am not coding, I enjoy going to the gym and spending time with family and friends. I also love traveling!
