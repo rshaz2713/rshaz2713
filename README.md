@@ -14,7 +14,7 @@ My MS thesis explores AI-assisted inspection of culverts and concrete infrastruc
 ## CCSU Robotics Lab Work
 These repositories highlight other projects I contributed to as a developer in the CCSU Robotics Lab.
 * **[LLM Automatic Documentation](https://github.com/rshaz2713/LLM-Automatic-Documentation)** - Python video-to-documentation pipeline using FFmpeg, Whisper, keyframe extraction, and LLM processing. I contributed as a developer from September to December 2024, integrating pipeline stages and data flow, with my commits in the `main` branch. The project has continued evolving with later Robotics Lab teams.
-* **[3D Scanning and Inspection](https://github.com/rshaz2713/3D-Scanning-and-Inspection)** - C# robotic inspection system integrating ABB RobotStudio and FocalSpec SDKs for automated 3D scanning of manufacturing parts. I contributed from January to May 2025 as part of my senior capstone in the `main` branch, originally focused on GKN Aerospace airfoil blades. I later extended the codebase for NIMS Mill Step data acquisition with Virginia Tech, found in the `vt-data-acquisition` branch.
+* **[3D Scanning and Inspection](https://github.com/rshaz2713/3D-Scanning-and-Inspection)** - C# robotic inspection system integrating ABB RobotStudio and FocalSpec SDKs for automated 3D scanning of manufacturing parts. I contributed from January to May 2025 as part of my senior capstone in the `main` branch, originally focused on GKN Aerospace airfoil blades. I later extended the codebase for NIMS Mill 2.5 Step Block data acquisition with Virginia Tech, found in the `vt-data-acquisition` branch.
 
 ## CCSU Coursework Projects
 Selected software projects from my undergraduate and graduate coursework:
