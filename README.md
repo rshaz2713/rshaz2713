@@ -8,7 +8,7 @@ Check out my MS thesis project, supported by both repositories below. My focus i
 ## Full-Stack Web Development Projects
 Check out 2 projects I worked on for full-stack web application development as a part of my web programming and advanced software engineering course curricula, utilizing Django:
 * [Ticketmaster API](https://github.com/rshaz2713/CS416TicketmasterAPI.git) - Integrates the Ticketmaster REST API with an interactive frontend and database access through Django ORM for favorited tickets. Initially hosted on PythonAnywhere; now source code is available directly.
-* [CampusBridge](https://github.com/rshaz2713/CampusBridge.git) - Worked in a Scrum team of 4 to prototype a university portal prototype supporting course enrollment, grade entry, and degree audits. Included authentication and session management, with authors developer documentation.
+* [CampusBridge](https://github.com/rshaz2713/CampusBridge.git) - Worked in a Scrum team of 4 to prototype a university portal prototype supporting course enrollment, grade entry, and degree audits. Included authentication and session management, with authored developer documentation.
 
 ## More updates to my README.md coming soon...
 
