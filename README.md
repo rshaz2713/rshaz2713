@@ -1,5 +1,11 @@
 # Rumman Shahzad
 
+**Software Engineer | Robotics, AI, and Applied R&D**
+
+I build software at the intersection of robotics, AI, backend systems, and computer vision. Currently working in the Robotics Lab at Central Connecticut State University while completing my MS thesis on AI-assisted mixed-reality UAV inspection of concrete civil infrastructure.
+
+<!-- TODO: Add images here -->
+
 ## CCSU Robotics Lab Work
 These repositories showcase my development experience and my commit histories for projects I have been actively developing for the robotics lab.
 * [LLM Automatic Documentation](https://github.com/rshaz2713/LLM-Automatic-Documentation) - A Python-based video-to-documentation pipeline that ingests a documentation/tutorial video, transcodes to audio via FFmpeg, transcribes to text via Whisper API, and generates markdown documentation using LLM APIs. My commit history was from September to December 2024 in the `main` branch, where I assembled the pipeline stages for data transmission as it was being parsed and ingested for keyframe extraction. The project has significantly involve since that time.
