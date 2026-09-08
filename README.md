@@ -2,7 +2,9 @@
 
 ## CCSU Robotics Lab Work
 These repositories showcase my development experience and my commit histories for projects I have been actively developing for the robotics lab.
+* [LLM Automatic Documentation](https://github.com/rshaz2713/LLM-Automatic-Documentation) - A Python-based video-to-documentation pipeline that ingests a documentation/tutorial video, transcodes to audio via FFmpeg, transcribes to text via Whisper API, and generates markdown documentation using LLM APIs. My commit history was from September to December 2024 in the `main` branch, where I assembled the pipeline stages for data transmission as it was being parsed and ingested for keyframe extraction. The project has significantly involve since that time.
 * [3D Scanning and Inspection](https://github.com/rshaz2713/3D-Scanning-and-Inspection) - Made with C# and RobotStudio + FocalSpec SDKs for automated 3D scanning of manufacturing parts. Originally designed for GKN Aerospace airfoil blades; my commit history in the `main` branch dates from January to May 2025. This codebase was spun off for data acquisition of NIMS Mill Step blocks in collaboration with Virginia Tech, found in the `vt-data-acquisition` branch.
+
 
 ## MS Thesis Project
 Check out my MS thesis project, supported by both repositories below. My focus is on using drones, mixed reality, and AI to inspect cracks and defects in culverts and concrete civil infrastructure. There are 2 repositories for this, a ground station repo and a Unity repo:
