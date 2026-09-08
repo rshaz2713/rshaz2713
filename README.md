@@ -1,5 +1,9 @@
 # Rumman Shahzad
 
+## CCSU Robotics Lab Work
+These repositories showcase my development experience and my commit histories for projects I have been actively developing for the robotics lab.
+* [3D Scanning and Inspection](https://github.com/rshaz2713/FocalSpec-Airfoil-Scanner) - Made with C# and RobotStudio + FocalSpec SDKs for automated 3D scanning of manufacturing parts. Originally designed for GKN Aerospace airfoil blades; my commit history in the `main` branch dates from January to May 2025. This codebase was spun off for data acquisition of NIMS Mill Step blocks in collaboration with Virginia Tech, found in the `vt-data-acquisition` branch.
+
 ## MS Thesis Project
 Check out my MS thesis project, supported by both repositories below. My focus is on using drones, mixed reality, and AI to inspect cracks and defects in culverts and concrete civil infrastructure. There are 2 repositories for this, a ground station repo and a Unity repo:
 * [Drone Inspection Ground Station](https://github.com/rshaz2713/Drone-Inspection-Ground-Station.git)
