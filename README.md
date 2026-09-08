@@ -28,7 +28,7 @@ I interned for the CAE in Cybersecurity Community via Augusta University from Ja
 * **[CAE Internship Codebase](https://github.com/rshaz2713/CAE-Internship-VIVID_cohort6)** - This fork is private, with repository access limited to users authorized by the original owner.
 
 ## Early Independent Project
-* **[Ibn iBot](https://github.com/rshaz2713/Ibn-iBot)** - My first substantial software project, developed and maintained from October 2020 to May 2021 while I was in high school. My only prior experience was AP Computer Science A. Built with Java and Discord JDA, Ibn iBot ran 24/7 on a Raspberry Pi as an automoderator for the 4,000+ members of the Muslim Gamers League Discord community. Ibn iBot filtered unwanted content from the server to ensure safety of all and provided moderation tools for server staff. This project has long since served its purpose and is preserved as the starting point of my software engineering journey.
+* **[Ibn iBot](https://github.com/rshaz2713/Ibn-iBot)** - My first substantial software project, maintained when I was in high school with AP Computer Science A as my only prior experience. This was a Discord bot made with Java Discord API (JDA) that served as an automoderator for the 4,000+ members of the Muslim Gamers' League Discord community, providing basic safety checks and features for members, and aiding staff with moderation tools (such as strikes, kicks, and bans). Preserved as the starting point of my programming journey.
 
 ## Contact
 
