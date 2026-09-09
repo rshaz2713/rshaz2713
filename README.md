@@ -7,10 +7,11 @@ I build software at the intersection of robotics, AI, backend systems, and compu
 ![GitHub Profile Collage](rshaz2713-github-profile-collage.png)
 
 ## MS Thesis Project
-My MS thesis explores AI-assisted inspection of culverts and concrete infrastructure using drones, mixed reality, wireless teleoperation and control, and computer vision with locally hosted AI models such as DINOv3 and YOLO. This project is split across 2 repositories.
+My MS thesis explores AI-assisted inspection of culverts and concrete infrastructure using drones, mixed reality, wireless teleoperation and control, and computer vision with locally hosted AI models such as DINOv3 and YOLO.
 * **[Ground Station Repository](https://github.com/rshaz2713/Drone-Inspection-Ground-Station)** - Python ground-station software for wireless gimbal teleoperation, drone video reception, networking, and AI-assisted analysis. Acts as middleware between HoloLens and the drone.
 * **[HoloLens Unity Repository](https://github.com/rshaz2713/Drone-Inspection-Unity)** - Unity/MRTK3 mixed-reality interface for the HoloLens FOV, as well as communication between the HoloLens and ground station for gimbal teleoperation and camera feed transmission.
 * **[Thesis Proposal](https://drive.google.com/file/d/19Rk60HqRzOT6fECXwwJruvHoOz7zj6iP/view?usp=sharing)** - A proposal drafted outlining the purpose, methodologies, and steps that will be taken to accomplish completion of the project.
+* **[Project Photos and Videos](https://drive.google.com/drive/folders/1AH60JXa73fyvs4VgyJuPsQylC9yghYjL?usp=sharing)** - Photos, demonstrations, and development footage documenting the project's progress from prototyping through integration.
 * **_Thesis paper will be added upon completion._**
 
 ## CCSU Robotics Lab Work
