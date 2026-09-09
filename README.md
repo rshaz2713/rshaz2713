@@ -4,8 +4,6 @@
 
 I build software at the intersection of robotics, AI, backend systems, and computer vision. I also do research and technical writing, including papers, conference posters, reports, and proposals for projects and grant funding.
 
-![GitHub Profile Collage](rshaz2713-github-profile-collage.png)
-
 ## MS Thesis Project
 My MS thesis explores AI-assisted inspection of culverts and concrete infrastructure using drones, mixed reality, wireless teleoperation and control, and computer vision with locally hosted AI models such as DINOv3 and YOLO. This project is split across 2 repositories.
 * **[Ground Station Repository](https://github.com/rshaz2713/Drone-Inspection-Ground-Station)** - Python ground-station software for wireless gimbal teleoperation, drone video reception, networking, and AI-assisted analysis. Acts as middleware between HoloLens and the drone.
