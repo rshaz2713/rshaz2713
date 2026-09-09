@@ -34,10 +34,10 @@ Beyond coding and my thesis writing, I also do research in robotics, software en
 * **[Agent Tesla Malware Analysis](https://drive.google.com/file/d/1Ca1s0_ZkJ08VHfMdWJqaxJVxOvpmYZ09/view?usp=drive_link)** - Malware analysis report of a real Agent Tesla trojan, covering static and dynamic analysis, unpacking attempts, runtime behavior, network analysis, and 10 MITRE ATT&CK mappings. Used tools such as Ghidra, Wireshark, pe-sieve, Process Explorer, Process Monitor, FakeNet, and dnSpy. _CS 511 (Advanced Software Reverse Engineering), Spring 2026_
 * **[Software Testing & QA Project Report](https://drive.google.com/file/d/1I4Hkyv-1AtUMdZFnRJe2imaf-d7LYxht/view?usp=drive_link)** - Graduate testing project applying base-choice, prime-path, restricted active-clause, and mutation coverage criteria to the Apache Commons Math Java codebase, including JUnit test design and analysis of infeasible test requirements. _CS 506 (Software Testing and Quality Assurance), Spring 2025_
 
-## CAE in Cybersecurity Community Internship Codebase
+## CAE in Cybersecurity Community Internship
 I interned for the CAE in Cybersecurity Community via Augusta University from January to March 2025. I worked on integration of multithreaded Ollama LLM calls to replace Gemini API for generating questions from articles for a cybersecurity training platform.  
 
-* **[CAE Internship Codebase](https://github.com/rshaz2713/CAE-Internship-VIVID_cohort6)** - This fork is private, with repository access limited to users authorized by the original owner.
+* ~~[CAE Internship Codebase](https://github.com/rshaz2713/CAE-Internship-VIVID_cohort6)~~ - **This fork is private, with repository access limited to users authorized by the original owner.**
 
 ## Early Independent Project
 * **[Ibn iBot](https://github.com/rshaz2713/Ibn-iBot)** - My first substantial software project, built in high school with AP Computer Science A as my only prior programming coursework. Developed with Java and the Java Discord API, Ibn iBot ran 24/7 as an automoderator for the 4,000+ member Muslim Gamers' League Discord community, providing automated safety checks and staff moderation tools. _Built and maintained October 2020 to December 2021._
