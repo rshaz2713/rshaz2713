@@ -11,7 +11,7 @@ My MS thesis explores AI-assisted inspection of culverts and concrete infrastruc
 * **[Ground Station Repository](https://github.com/rshaz2713/Drone-Inspection-Ground-Station)** - Python ground-station software for wireless gimbal teleoperation, drone video reception, networking, and AI-assisted analysis. Acts as middleware between HoloLens and the drone.
 * **[HoloLens Unity Repository](https://github.com/rshaz2713/Drone-Inspection-Unity)** - Unity/MRTK3 mixed-reality interface for the HoloLens FOV, as well as communication between the HoloLens and ground station for gimbal teleoperation and camera feed transmission.
 * **[Thesis Proposal](https://drive.google.com/file/d/19Rk60HqRzOT6fECXwwJruvHoOz7zj6iP/view?usp=sharing)** - A proposal drafted outlining the purpose, methodologies, and steps that will be taken to accomplish completion of the project.
-* **[Project Photos and Videos](https://drive.google.com/drive/folders/1AH60JXa73fyvs4VgyJuPsQylC9yghYjL?usp=sharing)** - Photos, demonstrations, and development footage documenting the project's progress from prototyping through integration.
+* **[Progress Photos and Videos](https://drive.google.com/drive/folders/1AH60JXa73fyvs4VgyJuPsQylC9yghYjL?usp=sharing)** - Photos, demonstrations, and development footage documenting the project's progress from prototyping through integration.
 * **_Thesis paper will be added upon completion._**
 
 ## CCSU Robotics Lab Work
