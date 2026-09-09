@@ -2,8 +2,6 @@
 
 > **Software Engineer | Robotics, AI, and Applied R&D**
 
-Currently working in the Robotics Lab at Central Connecticut State University.
-
 I build software at the intersection of robotics, AI, backend systems, and computer vision. I also do research and technical writing, including papers, conference posters, reports, and proposals for projects and grant funding.
 
 <!-- TODO: Add images here -->
