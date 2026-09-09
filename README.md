@@ -1,8 +1,14 @@
-# Rumman Shahzad
+<div align="center">
+  <h1>Rumman Shahzad</h1>
+  <p><strong>Software Engineer | Applied R&D, Robotics, AI/ML, and Full-Stack</strong></p>
+  <p><strong><a href="https://linkedin.com/in/rumman-shahzad">LinkedIn</a></strong> | <strong><a href="mailto:rshahzad@proton.me">Email</a></strong></p>
+</div>
 
-> **Software Engineer | Robotics, AI, and Applied R&D**
+<div align="center">
+  <em>I build software at the intersection of robotics, AI, full-stack development, and computer vision. I also do research and technical writing, including papers, conference posters, reports, and proposals for projects and grant funding.</em>
+</div>
 
-I build software at the intersection of robotics, AI, backend systems, and computer vision. I also do research and technical writing, including papers, conference posters, reports, and proposals for projects and grant funding.
+<br>
 
 ![GitHub Profile Collage](rshaz2713-github-profile-collage.png)
 
@@ -42,8 +48,3 @@ I interned for the CAE in Cybersecurity Community via Augusta University from Ja
 
 ## Early Independent Project
 * **[Ibn iBot](https://github.com/rshaz2713/Ibn-iBot)** - My first substantial software project, built in high school with AP Computer Science A as my only prior programming coursework. Developed with Java and the Java Discord API, Ibn iBot ran 24/7 as an automoderator for the 4,000+ member Muslim Gamers' League Discord community, providing automated safety checks and staff moderation tools. _Built and maintained October 2020 to December 2021._
-
-## Contact
-
-* [LinkedIn](https://linkedin.com/in/rumman-shahzad)
-* [Email](mailto:rshahzad@proton.me)
