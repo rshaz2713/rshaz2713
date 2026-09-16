@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Rumman Shahzad</h1>
+  <h1>Rumman Shahzad, PSM I, PSPO I</h1>
   <p><strong>Software Engineer | Applied R&D, Robotics, AI/ML, and Full-Stack</strong></p>
   <p><strong><a href="https://drive.google.com/drive/folders/1qLdb0isP8OpDw6XOewBv7Rw801-QDJFQ?usp=sharing">My Technical Writing</a></strong> | <strong><a href="https://linkedin.com/in/rumman-shahzad">LinkedIn</a></strong> | <strong><a href="mailto:rshahzad@proton.me">Email</a></strong></p>
 </div>
