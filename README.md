@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <em>I build software at the intersection of robotics, AI, full-stack development, and computer vision. I also do research and technical writing, including papers, conference posters, course project reports, and proposals for projects and grant funding.</em>
+  <em>I build applications, backend services, and automation systems using Python, C#, and Java. My work spans third-party API/SDK integrations, data processing, networked services, and software architecture across industrial R&D, computer vision, and cybersecurity.</em>
 </div>
 
 <br>
